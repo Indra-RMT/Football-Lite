@@ -1,0 +1,37 @@
+{
+  "name": "English PL",
+  "gcm_sender_id": "1018983067630",
+  "short_name": "EPL:Info",
+  "description": "PWA EPL with Push Notification",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#402652",
+  "theme_color": "#402652",
+  "icons": [
+    {
+      "src": "/image/icon/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/image/icon/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/image/icon/icon-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/image/icon/icon-384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/image/icon/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

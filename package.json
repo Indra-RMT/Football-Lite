@@ -1,0 +1,15 @@
+{
+  "name": "english-premier-league",
+  "version": "1.0.0",
+  "description": "submission dicoding MPWA",
+  "main": "index.html",
+  "dependencies": {
+    "web-push": "^3.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "indra rahmanto",
+  "license": "ISC"
+}
